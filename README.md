@@ -1,4 +1,4 @@
-# Graficador de rutas para carrito Arduino
+﻿# Graficador de rutas para carrito Arduino
 
 Dashboard React para visualizar la ruta cruda, ruta optimizada y reproduccion del carrito Arduino en tiempo real.
 
