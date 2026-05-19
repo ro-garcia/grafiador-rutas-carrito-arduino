@@ -2,7 +2,7 @@
 
 Dashboard React para visualizar la ruta cruda, ruta optimizada y reproduccion del carrito Arduino en tiempo real.
 
-![Vista del dashboard](docs/dashboard-preview.png)
+![Vista del dashboard](docs/dashboard-preview..png.png)
 
 ## Ejecucion rapida
 
